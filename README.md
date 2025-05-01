@@ -53,8 +53,14 @@ pip install requests
 
    Simply execute the script by running:
    
+English version:
    ```bash
-   python run.py
+   python run-en.py
+   ```
+
+Polish version:
+   ```bash
+   python run-pl.py
    ```
 
    The script will:
