@@ -55,12 +55,12 @@ pip install requests
    
 English version:
    ```bash
-   python run-en.py
+   python run-EN.py
    ```
 
 Polish version:
    ```bash
-   python run-pl.py
+   python run-PL.py
    ```
 
    The script will:
