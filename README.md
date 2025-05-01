@@ -47,6 +47,7 @@ pip install requests
    - If the automatic download fails, please manually download the required resources from:
      - [Minecraft Wiki](https://minecraft.wiki/w/Resources)
      - [Internet Archive - Minecraft Alpha 1.1.1](https://archive.org/download/alpha-1.1.1/resources.zip)
+     - [My GitHub]_(https://github.com/PaffcioStudio/Minecraft-Alpha-1.1.1/tree/main/resources)
    - Extract the files into `minecraft/assets/virtual/legacy/`.
 
 4. **Run the Script**:
