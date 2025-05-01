@@ -1,7 +1,7 @@
 
 # Minecraft Alpha A1.1.1 Setup Script
 
-This is a Python script designed to set up and prepare the environment for running **Minecraft Alpha 1.1.1**.
+This is a Python script designed to set up and prepare the environment for running **Minecraft Alpha 1.1.1 with fix no gray screen**.
 
 ## Features
 
